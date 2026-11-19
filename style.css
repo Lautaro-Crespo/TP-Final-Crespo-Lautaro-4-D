@@ -28,7 +28,7 @@ body{
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-img{
+.imagen{
     width: 250px;
     height: 400px;
     object-fit: cover;
