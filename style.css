@@ -46,12 +46,16 @@ img{
     border-radius: 8px;
 }
 .h3inicio{
-    color: rgb(160, 3, 3);
+    color: rgb(163, 16, 16);
 }
 .textoinicial{
     text-align: center;
     color: rgb(202, 68, 68);
 }
-footer {
-    background-color:rgb(33, 4, 4) ;
+.infoextra{
+    background-color: rgb(118, 17, 17);
+     border: 1px solid grey;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 8px;
 }
