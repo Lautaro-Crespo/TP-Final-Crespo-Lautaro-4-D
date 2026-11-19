@@ -59,3 +59,16 @@ img{
     margin: 15px;
     border-radius: 8px;
 }
+.peli{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.nombrepeli {
+    flex: 1;
+}
+.descripcion {
+    background-color: rgb(166, 33, 33);
+    padding: 15px;
+    border-radius: 10px;
+}
