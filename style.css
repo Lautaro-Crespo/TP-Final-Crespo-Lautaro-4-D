@@ -73,4 +73,6 @@ img{
     background-color: rgb(166, 33, 33);
     padding: 15px;
     border-radius: 10px;
+    width: 100%;
+    box-sizing: border-box;
 }
